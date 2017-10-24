@@ -22193,6 +22193,7 @@
       "properties": {
         "SOVEREIGNT": "France",
         "TYPE": "Dependency",
+        "NAME": "Guyane",
         "ADMIN": "Guyane",
         "ADM0_A3": "FRA",
         "POP_EST": 67106161,
